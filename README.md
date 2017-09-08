@@ -6,3 +6,6 @@ Creating Pull Requsts (PRs) is needed when using RCS in a multi-person projects.
 
 # Summary
 Paragraph
+
+#Dummy comments
+Add some more commits to the add-intro branch
